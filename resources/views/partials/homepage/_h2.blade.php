@@ -1,0 +1,1 @@
+<h2 class="text-center px-[30%] py-[100px] mt-12 text-3xl font-bold">{{ $titleh2 }}<span class="text-gray-500">{{ $spanh2}}</span></h2>
