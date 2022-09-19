@@ -7,7 +7,7 @@
                 <h1 class="pb-5 uppercase text-4xl font-black">{{ $arrCardS2["title"] }}</h1>
                 <p class="text-xl font-bold">{{ $arrCardS2["price"] }}</p>
             </div>
-             <div class="flex justify-center space-x-8 pt-8 uppercase font-bold">
+            <div class="flex justify-center space-x-8 pt-8 uppercase font-bold">
                 <div class="text-blue-500">
                     <a href="">{{ $arrCardS2["link1"] }}</a>
                     <a href=""><i class="fa-solid fa-angle-right"></i></a>

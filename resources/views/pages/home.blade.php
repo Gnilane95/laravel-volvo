@@ -22,13 +22,19 @@
     $arrayCardsS3 = [
         [
             "img"=>"2.webp",
-            "title"=>"toto's card",
-            "description"=> "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem accusantium veritatis recusandae explicabo nam distinctio, inventore officiis quae earum magnam porro nemo nulla commodi repellendus voluptatibus ducimus natus. Eum, iure?" 
+            "name"=>"Xc 60 Recharge",
+            "title"=>"La route vous appartient.Découvrez le monde",
+            "price"=>"A partir de 72 130€",
+            "link1"=>"Découvrez",
+            "link2"=>"Choisir" 
         ],
         [   
             "img"=>"6.webp",
-            "title"=>"titi's card",
-            "description"=> "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem accusantium veritatis recusandae explicabo nam distinctio, inventore officiis quae earum magnam porro nemo nulla commodi repellendus voluptatibus ducimus natus. Eum, iure?" 
+            "name"=>"Xc 60 Recharge",
+            "title"=>"La route vous appartient.Découvrez le monde",
+            "price"=>"A partir de 72 130€",
+            "link1"=>"Découvrez",
+            "link2"=>"Choisir" 
         ],
     ]
 
